@@ -1,11 +1,10 @@
 \name{resto}
 \alias{resto}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Resto
-%%  ~~function to do ... ~~
+\title{ Resto
 }
-\description{Calcula el resto de una division
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+\description{
+Calcula el resto de una division
 }
 \usage{
 resto(dividendo, divisor)
