@@ -2,7 +2,7 @@
 \alias{IGC}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+IGC
 }
 \description{
 Calcula el IGC
