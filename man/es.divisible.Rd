@@ -3,10 +3,9 @@
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Es Divisible
-
 }
-\description{Comprueba si dos números son divisibles
-
+\description{
+Comprueba si dos numeros son divisibles
 }
 \usage{
 es.divisible(numero, divisor)
