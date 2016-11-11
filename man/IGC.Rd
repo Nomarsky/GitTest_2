@@ -22,7 +22,7 @@ IGC(peso, estatura, Edad, Sexo)
 %%     ~~Describe \code{Edad} here~~
 }
   \item{Sexo}{
-%%     ~~Describe \code{Sexo} here~~
+1 si eres hombre y 0 si eres mujer
 }
 }
 \details{
